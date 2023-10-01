@@ -9,7 +9,7 @@ package-lock.json
 style/.sass-cache/
 stats.json
 .npmrc
-
+dist
 img/
 images/
 private/
